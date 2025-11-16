@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deconstructing Distributed Backend Systems"
-author: "Your Name" 
+author: Boluwatife Anwo
 date: 2025-11-16 22:00:00 +0100
 categories: [Architecture, Backend]
 tags: [distributed, systems, backend, microservices, cap-theorem]
@@ -25,11 +25,14 @@ Understanding these terms is vital for navigating distributed architecture:
 
 Term	Definition
 	
-Node	A single computer or server within the distributed system.
-Scalability	The system's ability to support increased load by adding more resources.
-Availability	The system's uptime; the percentage of time it remains operational.
-Consistency	The guarantee that all nodes see the same data at the same time (a key challenge).
-Load Balancing	The process of efficiently distributing incoming network traffic across a group of backend servers.
+Node: A single computer or server within the distributed system.
+
+Scalability: The system's ability to support increased load by adding more resources.
+
+Availability: The system's uptime; the percentage of time it remains operational.
+Consistency: The guarantee that all nodes see the same data at the same time (a key challenge).
+
+Load Balancing: The process of efficiently distributing incoming network traffic across a group of backend servers.
 
 
 III. Architecture Styles
