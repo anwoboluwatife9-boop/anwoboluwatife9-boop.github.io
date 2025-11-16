@@ -1,0 +1,16 @@
+# Site settings
+title: Boluwatife Anwo | Technical Writer portfolio
+email: anwoboluwatife9@gmail.com
+description: >-
+  A collection of technical articles and guides focusing on backend architecture,
+  cloud engineering, and distributed systems.
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # The base hostname & protocol for your site
+
+# Theme settings
+theme: jekyll-theme-minimal # Or 'jekyll-theme-architect', 'jekyll-theme-cayman', etc.
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
